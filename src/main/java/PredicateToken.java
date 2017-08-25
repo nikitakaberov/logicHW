@@ -1,0 +1,3 @@
+enum PredicateToken {
+    LPAREN, RPAREN, END, OR, AND, CONST, IMPL, NEG, EQ, ALL, ANY, S, ZERO, PLUS, MUL, PREDICATE, COMMA
+}
